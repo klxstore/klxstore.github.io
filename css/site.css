@@ -1,0 +1,14 @@
+
+.container-fluid {
+    background-image: url(../images/bg.png);
+    background-repeat: no-repeat;
+    background-position: bottom left;
+}
+.dark-mode, body {
+    background-color: rgb(24, 24, 24);
+    color: white;
+}
+.light-mode {
+    background-color: white;
+    color: black;
+}
